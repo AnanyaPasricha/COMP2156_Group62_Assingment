@@ -4,3 +4,5 @@ Faster, better product delivery.
 Faster issue resolution and reduced complexity.
 
  A DevOps methodology can be difficult and costly to implement, adoption might spark organizational resistance, and the business might struggle to measure the success of its DevOps initiative.
+
+ Jenkins is a widely used DevOps tool. It is an open-source automation server that plays a crucial role in the DevOps pipeline by facilitating CI/CD processes. 
