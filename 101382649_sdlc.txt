@@ -2,4 +2,6 @@ The SDLC concept applies to a range of hardware and software configurations, as 
 
 Enhances Product Quality,Improves Project Management,Manages Risks Effectively
 
-Increased time and costs for the project development if a complex model is required
+ Increased time and costs for the project development if a complex model is required. All details need to be specified in advance. SDLC models can be restrictive.
+
+The Software Development Life Cycle (SDLC) is a structured process that enables the production of high-quality, low-cost software, in the shortest possible production time.
