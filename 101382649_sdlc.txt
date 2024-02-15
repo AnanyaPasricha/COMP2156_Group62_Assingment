@@ -1,1 +1,3 @@
 The SDLC concept applies to a range of hardware and software configurations, as a system can be composed of hardware only, software only, or a combination of both
+
+Enhances Product Quality,Improves Project Management,Manages Risks Effectively
