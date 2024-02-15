@@ -1,4 +1,6 @@
+Working as a DevOps, you have both system operation skills and the ability to design and produce software. These skills apply to many fields and projects.
 
-In general, DevOps engineers will work in the office. The traditional working environment helps engineers have better concentration and opportunities to communicate, build relationships and practice professional skills.
+Only some people with software or systems knowledge can succeed as DevOps engineers. The reason lies in the challenges that anyone has to face below.
+
 
 
